@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+}
+
+.container{
+    margin-left: 400px;
+    margin-top: 200px;
+    padding: 50px;
+}
+
+.btn{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(165, 42, 153);
+    cursor: pointer;
+    color: aliceblue;
+}
+
+h1{
+    margin-bottom: 50px;
+}
+
+.result{
+    margin-left: 450px;
+    font-size: 28px;
+    color: blue;
+    padding: 13px;
+   
+font-weight: bold;
+}
+
+.resultPost{
+    margin-left: 450px;
+    font-size: 20px;
+}
